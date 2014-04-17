@@ -1,0 +1,18 @@
+[Highlighting INI Files - Schema Pleasant]
+Alerts:Alert Level 1=10,ffe85848,ffe85848,1,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 2=10,ffca9219,ffca9219,1,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,1,0,0,0,,,,---
+Alerts:Normal Text=0,ffdadabb,ffdadabb,0,0,0,0,,,,---
+INI Files:Assignment=9,ffd1dc8e,ffd1dc8e,0,0,0,0,,,,---
+INI Files:Comment=8,ff6a786e,ff6a786e,0,0,0,0,,,,---
+INI Files:Float=5,ff8acccf,ff8acccf,0,0,0,0,,,,---
+INI Files:Int=3,ff8acccf,ff8acccf,0,0,0,0,,,,---
+INI Files:Keyword=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+INI Files:Normal Text=2,ffe9d9ab,ffe9d9ab,0,0,0,0,,,,---
+INI Files:Section=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+INI Files:Value=7,ffc58f8f,ffc58f8f,0,0,0,0,,,,---
+
+[KateHLColors]
+full schema=false
+highlight=INI Files
+schema=Pleasant

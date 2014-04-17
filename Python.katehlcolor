@@ -1,0 +1,42 @@
+[Highlighting Python - Schema Pleasant]
+Alerts:Alert Level 1=10,ffe85848,ffe85848,1,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 2=10,ffca9219,ffca9219,1,0,0,0,ff451e1a,,,---
+Alerts:Alert Level 3=10,ff81ca2d,ff81ca2d,1,0,0,0,,,,---
+Alerts:Normal Text=0,ffdadabb,ffdadabb,0,0,0,0,,,,---
+Alerts_indent:Alert=10,ffd33682,ffd33682,1,0,0,0,,,,---
+Alerts_indent:Normal Text=0,ffdadabb,ffdadabb,0,0,0,0,,,,---
+Modelines:Comment=8,ff6a786e,ff6a786e,0,0,0,0,,,,---
+Modelines:Keyword=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+Modelines:Number=3,ff8acccf,ff8acccf,0,0,0,0,,,,---
+Modelines:Option OFF=9,ff859900,ff859900,0,0,0,0,,,,---
+Modelines:Option ON=9,ff859900,ff859900,0,0,0,0,,,,---
+Modelines:String=7,ffc58f8f,ffc58f8f,0,0,0,0,,,,---
+Modelines:Value=9,ff859900,ff859900,0,0,0,0,,,,---
+Modelines:Variable=11,ff6c71c4,ff6c71c4,0,0,0,0,,,,---
+Python:Builtin Function=2,ffe9d9ab,ffe9d9ab,0,0,0,0,,,,---
+Python:Command Keyword=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+Python:Comment=8,ff6a786e,ff6a786e,0,0,0,0,,,,---
+Python:Complex=9,ff859900,ff859900,0,0,0,0,,,,---
+Python:Decorator=9,ff8f6b32,ff8f6b32,0,0,0,0,,,,---
+Python:Definition Keyword=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+Python:Exceptions=9,ff7fc059,ff7fc059,1,0,0,0,,,,---
+Python:Extensions=9,ff0095ff,ff0095ff,1,0,0,0,,,,---
+Python:Float=5,ff8acccf,ff8acccf,0,0,0,0,,,,---
+Python:Flow Control Keyword=1,ffd0eaac,ffd0eaac,0,0,0,0,,,,---
+Python:Hex=4,ff8acccf,ff8acccf,0,0,0,0,,,,---
+Python:Int=3,ff8acccf,ff8acccf,0,0,0,0,,,,---
+Python:Normal Text=0,ffdadabb,ffdadabb,0,0,0,0,,,,---
+Python:Octal=4,ff8acccf,ff8acccf,0,0,0,0,,,,---
+Python:Operator=0,ffdadabb,ffdadabb,1,0,0,0,,,,---
+Python:Overloaders=9,ff60768b,ff60768b,1,0,0,0,,,,---
+Python:Preprocessor=6,ffc57272,ffc56b6b,0,0,0,0,,,,---
+Python:Raw String=7,ffc58f8f,ffc58f8f,0,0,0,0,,,,---
+Python:Special Variable=9,ff87beb5,ff87beb5,0,0,0,0,,,,---
+Python:String=7,ffc58f8f,ffc58f8f,0,0,0,0,,,,---
+Python:String Char=6,ffc57272,ffc56b6b,0,0,0,0,,,,---
+Python:String Substitution=9,ff5e91ae,ff5e91ae,0,0,0,0,,,,---
+
+[KateHLColors]
+full schema=false
+highlight=Python
+schema=Pleasant
