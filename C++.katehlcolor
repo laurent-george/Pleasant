@@ -42,7 +42,10 @@ Doxygen:Verbatim=8,ff6a786e,ff6a786e,0,0,0,0,,,,---
 Doxygen:Warning=1,ffca9219,ffca9219,1,0,0,0,,,,---
 Doxygen:Word=1,ffbfe3ff,ffd0d292,1,0,0,0,,,,---
 
+[Highlighting None - Schema Pleasant]
+\sNormalny tekst=0,ffd8d8d8,ffd0d0d0,0,0,0,0,,,,---
+
 [KateHLColors]
 full schema=false
-highlight=C++
+highlight=None
 schema=Pleasant
